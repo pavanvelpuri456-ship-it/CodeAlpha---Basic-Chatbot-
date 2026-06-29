@@ -10,7 +10,8 @@ RuleBot is a simple rule-based chatbot built using **Python**. It accepts user i
 
 ---
 
-![alt text](<Screenshot 2026-06-29 215444.png>)
+<img width="1292" height="557" alt="Screenshot 2026-06-29 215444" src="https://github.com/user-attachments/assets/e025a3e3-c9fc-4e74-84d4-5ca16d6e1a74" />
+
 
 ---
 
